@@ -1,0 +1,38 @@
+<?php
+	function flipbook5_menu(){
+	  $items = array();
+ 
+	  $items['flipbook5']= array(
+	    'title'            => t('Artifical Intelligence and Cybersecurity at UAlbany'),
+	    'page callback'    => 'flipbook5_output',
+	    'access arguments' => array('access content'),
+	  );
+	  
+	  return $items;
+	}
+ 
+	function flipbook5_init(){
+		
+		$drupal_version = 7;
+		if ( $drupal_version == '7' )
+		{
+			$module_path = base_path() . drupal_get_path('module', 'flipbook5');
+		}
+		else
+		{
+			$module_path = drupal_get_path('module', 'flipbook5');
+		}
+		
+	}
+	
+	function flipbook5_output() {
+		
+		$module_path = base_path() . drupal_get_path('module', 'flipbook5');
+		$html_codes = '<!--you can copy the below code to your htm page-----------------------------begin--->
+<!--change the width and height value as you want.--> 
+<!-- Do change "index.htm" to your real html name of the flippingbook--> 
+<iframe  style="width:100%;height:100%"  src="' . $module_path . '/book.html"  seamless="seamless" scrolling="no" frameborder="0" allowtransparency="true"></iframe>
+<!--you can copy the above code to your htm page-----------------------------end--->';
+		return $html_codes;
+	}
+?>

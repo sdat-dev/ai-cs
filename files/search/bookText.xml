@@ -1,14 +1,14 @@
 ﻿<?xml version="1.0" encoding="utf-8"?><Search><pages Count="38"><page Index="1" isMAC="true"><![CDATA[ ARTIFICIAL INTELLIGENCE
 AND CYBERSECURITY
 ALBANY.EDU/RESEARCH
- ]]></page><page Index="2" isMAC="true"><![CDATA[ACKNOWLEDGEMENTS
+ ]]></page><page Index="2" isMAC="true"><![CDATA[ ACKNOWLEDGEMENTS
 Assistance in the production of this document by the following individuals is greatly appreciated:
 Elisa Lopez, Thecla Philip, and Jennifer Krausnick DIVISION FOR RESEARCH
 Jill Reid
 OFFICE OF COMMUNICATIONS & MARKETING
 Arion James UALBANY STUDENT
 Featured AICS Researchers
-   ]]></page><page Index="3" isMAC="true"><![CDATA[ MESSAGE FROM THE DIVISION FOR RESEARCH
+  ]]></page><page Index="3" isMAC="true"><![CDATA[ MESSAGE FROM THE DIVISION FOR RESEARCH
 The University at Albany (UAlbany)
 is a comprehensive Research 1 (R1) institution under the Carnegie Classification and one of four research- focused “University Centers” in the State University of New York system. UAlbany is widely recognized for its cutting-edge research programs, student-centered academic and research experiences, and opportunities for research collaboration and industry partnership. UAlbany has
 a demonstrated history of service to New York’s Capital Region and has been recognized by the Carnegie Foundation’s Community Engagement Classification.
@@ -52,7 +52,7 @@ PUBLICATIONS
 • Investigating Heterogeneous Planning Spaces, A. Upadhyay and C. Ekenna, 2018 IEEE International Conference on Simulation, Modeling, and Programming for Autono- mous Robots 108-115 (2018).
  ]]></page><page Index="8" isMAC="true"><![CDATA[Robustness is critical to machine learning applications such as computer vision, signal processing, and image processing. Dr. Feng’s research is focused on learning and prediction to account for the “noise” in data sets by exploring the theoretical underpinnings
 for well-established, but not fully understood, machine learning algorithms. He is also developing novel methods for dealing with noisy high-dimensional data.
-   ]]></page><page Index="9" isMAC="true"><![CDATA[  YUNLONG FENG
+   ]]></page><page Index="9" isMAC="true"><![CDATA[ YUNLONG FENG
 ASSISTANT PROFESSOR MATHEMATICS AND STATISTICS
  PHD, CITY UNIVERSITY OF HONG KONG YLFENG@ALBANY.EDU
   EXPERTISE
@@ -65,27 +65,11 @@ PUBLICATIONS
 • A statistical learning approach to modal regression, Y. Feng, J. Fang and J.A.K. Suykens, Journal of Machine Learning Research 21 1 (2020).
 • Kernel density estimation for dynamical systems, H. Hang, I. Steinwart, Y. Feng and J.A.K. Suykens, Journal of Machine Learning Research 19 1260 (2018).
 • Learning with the maximum correntropy criterion induced losses for regression, Y. Feng, X. Huang, L. Shi, Y. Yang and J.A.K. Suykens, Journal of Machine Learning Research 16 993 (2015).
- ]]></page><page Index="10" isMAC="true"><![CDATA[The internet of things (IoT) has enabled rapid adoption of smart devices and cloud computing, which has created new security and privacy concerns. Dr. Majumdar is applying
-a type of artificial intelligence called natural language processing to learning-based security auditing. The results have numerous industrial and governmental applications to both IoT products, such as autonomous vehicles and smart health devices, and cloud computing platforms.
-   ]]></page><page Index="11" isMAC="true"><![CDATA[ SURYADIPTA MAJUMDAR
-ASSISTANT PROFESSOR
-INFORMATION SECURITY AND DIGITAL FORENSICS
- PHD, CONCORDIA UNIVERSITY SMAJUMDAR@ALBANY.EDU
-  EXPERTISE
-Internet of things (IoT) security, cloud computing security, network security
-ACHIEVEMENTS
-• Authored book, Cloud Security Auditing, on AI-aided security auditing methods
-• Developed a learning-based proactive security auditing framework for cloud computing platforms
-• Built a proactive security framework for Internet of Things (IoT) based on natural language processing (NLP) techniques
-PUBLICATIONS
-• Cloud Security Auditing, Suryadipta Majumdar, Taous Madi, Yushun Wang, Azadeh Tabiban, Momen Oqaily, Amir Alimohammadifar, Yosr Jarraya, Makan Pourzandi, Lingyu Wang and Mourad Debbabi, Springer International Publishing (2019).
-• Proactivizer: Transforming Existing Verification Tools into Efficient Solutions for Runtime Security Enforcement, Suryadipta Majumdar, Azadeh Tabiban, Meisam Mohammady, Alaa Oqaily, Yosr Jarraya, Makan Pourzandi, Lingyu Wang and Mourad Debbabi, 24th European Symposium on Research in Computer Security 2 239 (2019).
-• Learning Probabilistic Dependencies among Events for Proactive Security Auditing in Clouds, Suryadipta Majumdar, Azadeh Tabiban, Yosr Jarraya, Momen Oqaily, Amir Alimohammadifar, Makan Pourzandi, Lingyu Wang and Mourad Debbabi, Journal of Computer Security 27 165 (2019)
- ]]></page><page Index="12" isMAC="true"><![CDATA[Threat assessment and cybersecurity are becoming increasingly critical
+ ]]></page><page Index="10" isMAC="true"><![CDATA[Threat assessment and cybersecurity are becoming increasingly critical
 to the public sector. As a former government intelligence analyst,
 Dr. Nussbaum is particularly interested in assessing cyber risks and threats at the level of states, regions and municipalities - national security problems at
 the sub-national level.
-   ]]></page><page Index="13" isMAC="true"><![CDATA[ BRIAN NUSSBAUM
+   ]]></page><page Index="11" isMAC="true"><![CDATA[ BRIAN NUSSBAUM
 ASSISTANT PROFESSOR
 EMERGENCY PREPAREDNESS, HOMELAND SECURITY AND CYBERSECURITY
  PHD, UNIVERSITY AT ALBANY BNUSSBAUM@ALBANY.EDU
@@ -100,11 +84,11 @@ PUBLICATIONS
 • A survey on cybersecurity, data privacy, and policy issues in cyber-physical system deployments in smart cities, H. Habibzadeh, B.H. Nussbaum, F. Anjomshoa, B. Kantarci and T. Soyata, Sustainable Cities and Society 50 101660 (2019).
 • Smart city in crisis: Technology and policy concerns, T. Soyata, H. Habibzadeh, C. Ekenna, B. Nussbaum and J. Lozano, Sustainable Cities and Society 50 101566 (2019).
 • Communicating cyber intelligence to non-technical customers, B. H. Nussbaum, International Journal of Intelligence and Counter-Intelligence 30 743 (2017).
- ]]></page><page Index="14" isMAC="true"><![CDATA[Applying machine learning
+ ]]></page><page Index="12" isMAC="true"><![CDATA[Applying machine learning
 to human-centered data
 creates reliable models for analyzing and predicting human behavior. These models help
 us to understand and improve students’ academic performance, make accurate product recommendations, or analyze social networks and community dynamics.
-   ]]></page><page Index="15" isMAC="true"><![CDATA[ SHAGHAYEGH SAHEBI
+   ]]></page><page Index="13" isMAC="true"><![CDATA[ SHAGHAYEGH SAHEBI
 ASSISTANT PROFESSOR COMPUTER SCIENCE
  PHD, UNIVERSITY OF PITTSBURGH SSAHEBI@ALBANY.EDU
   EXPERTISE
@@ -118,11 +102,11 @@ PUBLICATIONS
 • Detecting Trait vs. Performance Student Behavioral Patterns Using Discriminative Non- Negative Matrix Factorization, M. Mirzaei and S. Sahebi, Proceedings of the Thirty- Third International Florida Artificial Intelligence Research Society Conference, North Miami Beach, FL (May 2020).
 • Review-Based Cross-Domain Collaborative Filtering: A Neural Framework, T.N. Doan and S. Sahebi, Workshop on Recommendation in Complex Scenarios 23-28 (2019).
 • Rank-Based Tensor Factorization for Student Performance Prediction, T. N. Doan and S. Sahebi, 12th International Conference on Educational Data Mining 288-293 (2019).
- ]]></page><page Index="16" isMAC="true"><![CDATA[The rapid proliferation
+ ]]></page><page Index="14" isMAC="true"><![CDATA[The rapid proliferation
 of “fake news” demands sophisticated methods to
 mitigate misinformation. Tools for analyzing and authenticating the source and content of news items include natural language processing, machine learning, fusion algorithms, and component and page ranking. Dr. Atrey
 is combining them in a robust tool that analyzes credibility and provides a “truthfulness score” to consumers.
-   ]]></page><page Index="17" isMAC="true"><![CDATA[ PRADEEP ATREY
+   ]]></page><page Index="15" isMAC="true"><![CDATA[ PRADEEP ATREY
 ASSOCIATE PROFESSOR COMPUTER SCIENCE
  PHD, NATIONAL UNIVERSITY OF SINGAPORE PATREY@ALBANY.EDU
   EXPERTISE
@@ -136,8 +120,8 @@ PUBLICATIONS
 • A framework to detect fake tweet images on social media, S. Parikh, S. Khedia and P.K. Atrey, The Fifth IEEE International Conference on Multimedia Big Data, Singapore (2019).
 • On the origin, proliferation and tone of fake news, S. Parikh, V. Patil and P.K. Atrey, 2nd IEEE International Conference on Multimedia Information Processing and Retrieval, San Jose, CA, USA, 135-140 (2019).
 • On cyberbullying incidents and underlying online social relationships, Q. Huang, V.K. Singh and P.K. Atrey, Springer Journal of Computational Social Science 1 241 (2018).
- ]]></page><page Index="18" isMAC="true"><![CDATA[Topological data analysis (TDA) is useful for imputing missing values and studying the “shape” of large complex data sets. When combined with machine learning, TDA is particularly useful for analyzing manifolds and spaces with manifold strata. This provides a complete set of computable algebraic invariants for a manifold, which is especially useful for epidemiological and biomedical data.
-   ]]></page><page Index="19" isMAC="true"><![CDATA[ BORIS GOLDFARB
+ ]]></page><page Index="16" isMAC="true"><![CDATA[Topological data analysis (TDA) is useful for imputing missing values and studying the “shape” of large complex data sets. When combined with machine learning, TDA is particularly useful for analyzing manifolds and spaces with manifold strata. This provides a complete set of computable algebraic invariants for a manifold, which is especially useful for epidemiological and biomedical data.
+   ]]></page><page Index="17" isMAC="true"><![CDATA[ BORIS GOLDFARB
 ASSOCIATE PROFESSOR
 MATHEMATICS AND STATISTICS
  PHD, CORNELL UNIVERSITY BGOLDFARB@ALBANY.EDU
@@ -152,9 +136,9 @@ PUBLICATIONS
 • Singular persistent homology with geometrically parallelizable computation, B. Goldfarb, Topology Proceedings 55 273 (2020).
 • A new missing data imputation method based on the Mapper algorithm, B. Goldfarb and R. Moag, preprint (2020).
 • Stratification learning using density-based TDA Mappers, I: the general approach and the case of graphs, B. Goldfarb and D. Goldfarb, preprint (2020).
- ]]></page><page Index="20" isMAC="true"><![CDATA[The proliferation of social media has also given rise to online harassment. Machine learning enables fast, accurate detection of cyberbullying, both by alerting offenders to potentially offensive content and by allowing their victims to limit inappropriate contact. This creates safer
+ ]]></page><page Index="18" isMAC="true"><![CDATA[The proliferation of social media has also given rise to online harassment. Machine learning enables fast, accurate detection of cyberbullying, both by alerting offenders to potentially offensive content and by allowing their victims to limit inappropriate contact. This creates safer
 online communities, particularly for young people who are the frequent targets of cyberbullies.
-   ]]></page><page Index="21" isMAC="true"><![CDATA[ DAPHNEY
+   ]]></page><page Index="19" isMAC="true"><![CDATA[ DAPHNEY
 STAVROULA ZOIS ELECTRICAL
 ASSISTANT PROFESSOR
 AND COMPUTER ENGINEERING
@@ -170,9 +154,9 @@ PUBLICATIONS
 • Robust Freeway Accident Detection: A Two-Stage Approach, Y. Liyanage, D.-S. Zois and C. Chelmis, 44th International Conference on Acoustics, Speech, and Signal Processing, Brighton, UK (May 2019).
 • Cyberbullying Ends Here: Towards Robust Detection of Cyberbullying in Social Media,
 M. Yao, C. Chelmis and D.-S. Zois, The Web Conference, San Francisco, CA (May 2019).
- ]]></page><page Index="22" isMAC="true"><![CDATA[Intelligent security and privacy analysis are critical to thwarting social engineering attacks. Dr. Masoumzadeh is using automated techniques to analyze the
+ ]]></page><page Index="20" isMAC="true"><![CDATA[Intelligent security and privacy analysis are critical to thwarting social engineering attacks. Dr. Masoumzadeh is using automated techniques to analyze the
 security and privacy behavior of applications without accessing the code. He and his team are also developing a platform that detects social engineering attacks and engages the perpetrators in conversation with the goal of investigating them.
-   ]]></page><page Index="23" isMAC="true"><![CDATA[ AMIR MASOUMZADEH
+   ]]></page><page Index="21" isMAC="true"><![CDATA[ AMIR MASOUMZADEH
 ASSISTANT PROFESSOR
 COMPUTER SCIENCE
  PHD, UNIVERSITY OF PITTSBURGH AMASOUMZADEH@ALBANY.EDU
@@ -188,10 +172,10 @@ PUBLICATIONS
 • Active Learning of Relationship-Based Access Control Policies, P. Iyer and A. Masoumzadeh, Proceedings of the 25th ACM Symposium on Access Control Models and Technologies 155-166 (2020).
 • Security Analysis of Relationship-Based Access Control Policies, A. Masoumzadeh, Eighth ACM Conference on Data and Application Security and Privacy 186–195 (2018).
 • Modeling Exposure in Online Social Networks, A. Cortese and A. Masoumzadeh, 15th Annual Conference on Privacy, Security and Trust 327 (2017).
- ]]></page><page Index="24" isMAC="true"><![CDATA[Risk analysis is an effective tool
+ ]]></page><page Index="22" isMAC="true"><![CDATA[Risk analysis is an effective tool
 for anticipating and mitigating
 the consequences of cybersecurity incidents. Impact modeling that considers both internal and external dependencies transforms cyber risk management from a narrow technical issue to a broader business security strategy. This approach creates a common language for technical experts and executive decision makers to collaborate on business continuity planning.
-   ]]></page><page Index="25" isMAC="true"><![CDATA[  UNAL TATA R
+   ]]></page><page Index="23" isMAC="true"><![CDATA[ UNAL TATA R
 ASSISTANT PROFESSOR
 EMERGENCY PREPAREDNESS, HOMELAND SECURITY AND CYBERSECURITY
  PHD, OLD DOMINION UNIVERSITY UTATAR@ALBANY.EDU
@@ -206,8 +190,8 @@ PUBLICATIONS
 • A complex structure representation of the US critical infrastructure protection program based on the Zachman framework, U. Tatar, B. Karabacak, P.F. Katina and A. Igonor, International Journal of System of Systems Engineering 9 221 (2019).
 • Agent-Based Model of Sand Supply Governance Employing Blockchain Technology, F. Sabz Ali Pour, U. Tatar and A. Gheorghe, Annual Simulation Symposium 14 1-11 (2018).
 • Impact Assessment of Cyber Attacks: A Quantification Study on Power Generation Systems, U. Tatar, B. Bahsi and A. Gheorghe, 11th System of Systems Engineering Conference 1-6 (2016).
- ]]></page><page Index="26" isMAC="true"><![CDATA[User compliance to security policies is a critical component of managing security risks. A good risk management program should have a clearly defined plan for enforcing policy compliance, detecting non-compliance, and addressing non-compliance.
-   ]]></page><page Index="27" isMAC="true"><![CDATA[  VICTORIA KISEKKA
+ ]]></page><page Index="24" isMAC="true"><![CDATA[User compliance to security policies is a critical component of managing security risks. A good risk management program should have a clearly defined plan for enforcing policy compliance, detecting non-compliance, and addressing non-compliance.
+   ]]></page><page Index="25" isMAC="true"><![CDATA[ VICTORIA KISEKKA
 ASSISTANT PROFESSOR
 INFORMATION SECURITY AND DIGITAL FORENSICS
  PHD, UNIVERSITY AT BUFFALO SCHOOL OF MANAGEMENT VKISEKKA@ALBANY.EDU
@@ -221,11 +205,12 @@ SELECTED PUBLICATIONS
 • Mitigating E-Services Avoidance: The Role of Government Cybersecurity Preparedness, Abdelhamid, M., Kisekka, V., & Samonas, S., Information and Computer Security, 27(1), 26-46 (2019).
 • The Effectiveness of Health Care Information Technologies: Evaluation of Trust, Security Beliefs, and Privacy as Determinants of Health Care Outcomes, Kisekka, V., & Giboney, J. S., Journal of medical Internet research, 20(4), e107 (2018).
 • An Agile Methodology for the Disaster Recovery of Information Systems Under Catastrophic Scenarios, Baham, C., Hirschheim, R., Calderon, A. A., & Kisekka, V., Journal of Management Information Systems, 34(3), 633-663 (2017).
- ]]></page><page Index="28" isMAC="true"><![CDATA[Cybersecurity is critical to our society’s functioning. Organizations need to recognize the importance of cybersecurity and must understand their responsibilities in securing their assets. As a former Application and Security Manager, Critical Care Information Systems, Dr. Yankson
+ ]]></page><page Index="26" isMAC="true"><![CDATA[Cybersecurity is critical to our society’s functioning. Organizations need to recognize the importance of cybersecurity and must understand their responsibilities in securing their assets. As a former Application and Security Manager, Critical Care Information Systems, Dr. Yankson
 is interested in developing privacy and security conscious solutions
 and teaching the next generation of students who can help organizations build reliable cybersecurity programs and prevent attacks.
-   ]]></page><page Index="29" isMAC="true"><![CDATA[  BENJAMIN YANKSON
-ASSISTANT PROFESSOR SECURITY
+   ]]></page><page Index="27" isMAC="true"><![CDATA[ BENJAMIN YANKSON
+ASSISTANT PROFESSOR
+EMERGENCY PREPAREDNESS, HOMELAND SECURITY AND CYBERSECURITY
  PHD, ONTARIO TECH UNIVERSITY BYANKSON@ALBANY.EDU
   EXPERTISE
 Privacy and Security IoT toys; Cybersecurity Risk and Information Assurance; Security Auditing and Compliance, and Digital Forensics
@@ -238,10 +223,10 @@ SELECTED PUBLICATIONS
 • Yankson B., Iqbal F., Aleem S., Shah B., Hung P.C.K, & Albuquerque A.P. (2019). A Privacy-Preserving Context Ontology (PPCO) for Smart Connected Toys. 12th CMI Conference on Cybersecurity and Privacy, Nov 28 – 30, 2019, Copenhagen SV, Denmark. pp. 1-6
 • Yankson, B. (2020). Space Infrastructure Security Through the Lens of Plan-Do-Check- Act (PDCA) Cybersecurity Framework. NATO Science for Peace and Security Series
 – D: Information and Communication Security, 57(Space Infrastructures: From Risk to Resilience Governance), 109–119. https://doi.org/10.3233/NICSP200012
- ]]></page><page Index="30" isMAC="true"><![CDATA[From personal assistants, to basic human needs, to the next generation of Semantic Web, graphs play a central role. AI is helping both organize, comb through, and
+ ]]></page><page Index="28" isMAC="true"><![CDATA[From personal assistants, to basic human needs, to the next generation of Semantic Web, graphs play a central role. AI is helping both organize, comb through, and
 glean insights from such data at unprecedented scales. The challenge is in ensuring that AI solutions
 are both accurate and constantly evolving, equitable, and tamper- proof.
-   ]]></page><page Index="31" isMAC="true"><![CDATA[  CHARALAMPOS CHELMIS
+   ]]></page><page Index="29" isMAC="true"><![CDATA[ CHARALAMPOS CHELMIS
 ASSISTANT PROFESSOR
 COMPUTER SCIENCE
  PHD, UNIVERSITY OF SOUTHERN CALIFORNIA CCELMIS@ALBANY.EDU
@@ -255,9 +240,9 @@ PUBLICATIONS
 • Mengfan Yao, Charalampos Chelmis, and Daphney-Stavroula Zois. “Cyberbullying ends here: Towards robust detection of cyberbullying in social media.” The World Wide Web Conference. 2019.
 • Saeed, Muhammad Rizwan, Charalampos Chelmis, and Viktor K. Prasanna. “Extracting entity-specific substructures for RDF graph embeddings.” Semantic Web 10.6 (2019): 1087-1108.
 • Srivastava, Ajitesh, Charalampos Chelmis, and Viktor K. Prasanna. “Computing competing cascades on signed networks.” Social Network Analysis and Mining 6.1 (2016): 82.
- ]]></page><page Index="32" isMAC="true"><![CDATA[  Dr. Ying’s research group explores the design of new risk measures and efficient optimization algorithms from the novel interaction of statistics, applied mathematics,
+ ]]></page><page Index="30" isMAC="true"><![CDATA[  Dr. Ying’s research group explores the design of new risk measures and efficient optimization algorithms from the novel interaction of statistics, applied mathematics,
 and machine learning. He and his group have developed robust and efficient ML algorithms for various application domains, such as face verification, anomaly detection, prediction of tumor growth, prediction of wildfires, and privacy protection.
-]]></page><page Index="33" isMAC="true"><![CDATA[ YIMING YING
+]]></page><page Index="31" isMAC="true"><![CDATA[ YIMING YING
 ASSOCIATE PROFESSOR MATHEMATICS AND STATISTICS
  PHD, ZHEJIANG UNIVERSITY YYING@ALBANY.EDU
   EXPERTISE
@@ -270,8 +255,8 @@ PUBLICATIONS
 • Differential privacy of SGD with non-smooth loss. P. Wang, Y. Lei, Y. Ying and H. Zhang. Preprint (2020).
 • Fine-Grained analysis of stability and generalization for SGD. International Conference on Machine Learning (ICML), Y. Lei and Y. Ying (June 2020).
 • Stochastic online AUC maximization. Advances in Neural Information Processing Systems (Oral presentation). Y. Ying, L. Wen and S. Lyu (December 2016)
-   ]]></page><page Index="34" isMAC="true"><![CDATA[  In a rapidly changing world, it is critical that we integrate cutting- edge technologies into our research. Atmospheric Science, in particular, is a prime example of “big data,” and Dr. Sulia is striving to exploit advanced computational techniques, such as data analytics and machine learning and push weather research and development into new frontiers.
-]]></page><page Index="35" isMAC="true"><![CDATA[ KARA SULIA
+ ]]></page><page Index="32" isMAC="true"><![CDATA[  In a rapidly changing world, it is critical that we integrate cutting- edge technologies into our research. Atmospheric Science, in particular, is a prime example of “big data,” and Dr. Sulia is striving to exploit advanced computational techniques, such as data analytics and machine learning and push weather research and development into new frontiers.
+]]></page><page Index="33" isMAC="true"><![CDATA[ KARA SULIA
 RESEARCH FACULTY
 ATMOSPHERIC SCIENCES RESEARCH CENTER
  PHD, PENN STATE UNIVERSITY KSULIA@ALBANY.EDU
@@ -289,9 +274,9 @@ PUBLICATIONS
 • A new method for ice-ice aggregation in the Adaptive Habit Model, K. J. Sulia, Z. J. Lebo, V. Przybylo, and C. G. Schmitt, J. Atmospheric Sciences, 78, 133-154, 10.1175/ JAS-D-20-0020.1 (2021).
 • The Ice Particle and Aggregate Simulator (IPAS). Part I: Extracting dimensional properties of ice- ice aggregates for microphysical parameterization, V. Przybylo, K. J. Sulia, C G. Schmitt, and Z. Lebo, J. Atmospheric Sciences., 76, 1661-1676, 10.1175/JAS-D-18-0187.1 (2019).
 • Simulated Polarimetric Fields of Ice Vapor Growth Using the Adaptive Habit Model. Part II: A Case Study from the FROST Experiment, K. J. Sulia and M. R. Kumjian, Monthly Weather Review, 145, 2303-2323, 10.1175/MWR-D-16-0062.1 (2017).
-   ]]></page><page Index="36" isMAC="true"><![CDATA[  Dr. Goel is currently engaged in cyber security and warfare research and computer security threats such as botnets and malware, risk analysis, security policy development and evaluation, security modeling, and self-organized complex systems.
+ ]]></page><page Index="34" isMAC="true"><![CDATA[  Dr. Goel is currently engaged in cyber security and warfare research and computer security threats such as botnets and malware, risk analysis, security policy development and evaluation, security modeling, and self-organized complex systems.
 He is leading an effort, launched by IEEE Communications Society and the IEEE Standards Association, to create a vision for the Smart Grid 15 years into the future.
-]]></page><page Index="37" isMAC="true"><![CDATA[ SANJAY GOEL
+]]></page><page Index="35" isMAC="true"><![CDATA[ SANJAY GOEL
 PROFESSOR
 INFORMATION SECURITY & DIGITAL FORENSICS
  PHD, RENSSELAER POLYTECHNIC INSTITUTE GOEL@ALBANY.EDU
@@ -305,5 +290,19 @@ PUBLICATIONS
 • National Cyber Security Strategy and the Emergence of Strong Digital Borders, Sanjay Goel, Connections: The Quarterly Journal 19, no. 1 (2020): 73-86.
 • Got Phished? Internet Security and Human Vulnerability, Sanjay Goel, Kevin Williams, and Ersin Dincelli, J. Association for Information Systems: 18:1(2) (2017).
 • How vulnerable are international financial markets to terrorism? An empirical study based on terrorist incidents worldwide, Sanjay Goel, Seth Cagle, Hany Shawky, J. Financial Stability, Elsevier, 33(C), 120-132 (2017).
-   ]]></page><page Index="38" isMAC="true"><![CDATA[ ALBANY.EDU/RESEARCH
+ ]]></page><page Index="36" isMAC="true"><![CDATA[Moral psychology is a burgeoning inter-disciplinary field that investigates human functioning in moral contexts. Drawing on both the empirical resources of the human sciences and the conceptual resources of philosophical ethics, Dr. D’Cruz’s group investigates the trustworthiness of artificial agents, the epistemic value of empathy, moral responsibility for implicit bias, and the rational basis for forgiveness.
+   ]]></page><page Index="37" isMAC="true"><![CDATA[ JASON D’CRUZ
+ASSOCIATE PROFESSOR PHILOSOPHY
+ PHD, BROWN UNIVERSITY JDCRUZ@ALBANY.EDU
+  EXPERTISE
+Ethics and moral psychology, especially trust and distrust, trustworthiness, promising, self-deception, rationalization, and imagination.
+ACHIEVEMENTS
+• Developed a conceptual framework for domain-delimited interpersonal trust.
+• Investigated the normative implications for moral character of psychological accounts of motive and behavior.
+• Collaborated with experimental psychologists on an investigation of psychopathy and imagination.
+PUBLICATIONS
+• D’Cruz, Jason (2015). Trust, Trustworthiness, and the Moral Consequence of Consistency. Journal of the American Philosophical Association 1 (3):467-484.
+• D’Cruz, Jason (2018). Trust within Limits. International Journal of Philosophical Studies 26 (2):240-250.
+• D’Cruz, Jason (2020). Rationalization and self-sabotage. Behavioral and Brain Sciences 43.
+ ]]></page><page Index="38" isMAC="true"><![CDATA[ ALBANY.EDU/RESEARCH
  ]]></page></pages></Search>

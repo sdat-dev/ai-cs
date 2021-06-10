@@ -1,0 +1,9 @@
+; Flip Book Drupal Module Version 0.9.0 
+; http://flipbuilder.com, 2013 flipbuilder.com All Rights Reserved
+
+name = flipbook5
+description = FlipBook 5 Module
+package = Flip Book Modules
+core = 7.x
+
+files[] = flipbook5.module

@@ -10,7 +10,7 @@
 .phoneBottomBar .button{width : 40px;height : 40px;position : absolute;cursor:pointer;}
 .phoneBottomBar .button img{height : 20px;left: -31px;width:20px;position : absolute;top:0;bottom:0;margin:auto;}
 .phoneBottomBar .button .svg{height : 20px;left: 1px;width:20px;position : absolute;top:0;bottom:0;margin:auto;}
-.phoneBottomBar .button .icon{overflow:hidden; position : absolute;left:10px;top:10px;width:22px;height:22px;}
+.phoneBottomBar .button .icon{overflow:hidden; position : absolute;left:9px;top:9px;width:22px;height:22px;}
 .phoneBottomBar .button span{display:none;}
 .phoneBottomBar .button img.custom{left:0;}
 
@@ -44,7 +44,7 @@
 	display : inline-block;
 	position : relative;
 	overflow : visible;
-	top : 0;
+	top : 10px;
 	margin-left : 7px;
 	width : 25px;
 	height : 30px;
@@ -62,9 +62,9 @@
 	display : inline-block;
 	position : relative;
 	overflow : visible;
-	top : -5px;
+	top : 5px;
 	margin-top : 12px;
-	margin-left : 7px;
+	margin-left : 10px;
 	width : 30px;
 	height : 30px;
 	cursor : pointer;
@@ -137,7 +137,7 @@
 .bookmark_form_phone .item span{padding:0 10px;display:inline-block;}
 .bookmark_form_phone .item input{display:inline-block;}
 .bookmark_form_phone .item .page{width:30px;}
-.bookmark_form_phone .item .title{width:82px;height:20px;border:none;padding:0 10px;background:transparent;}
+.bookmark_form_phone .item .title{width:82px;height:20px;line-height:20px;vertical-align:middle;border:none;padding:0 10px;background:transparent;}
 .bookmark_form_phone .item .colorSelection{margin:0;width:20px;height:18px;position:absolute;left:130px;top:6px;display:none;}
 .bookmark_form_phone .item img{position:absolute;cursor:pointer;}
 .bookmark_form_phone .item .save{left:160px;top:7px;display:none;}
@@ -159,19 +159,20 @@
 .bookmark_form_phone{background:transparent;width:100%;height:100%;padding:0;left:0;top:0;margin:0;}
 .bookmark_form_phone .stage{margin:0;width:100%;height:100%;}
 .bookmark_form_phone .item{position:relative;width:100%;height:100px;line-height:100px;vertical-align:middle;font-size:15px;cursor:pointer;}
-.bookmark_form_phone .item span{margin:0 10px;float:left;display:inline-block;width:auto;}
-.bookmark_form_phone .item img{height:76px;float:left;margin:12px 0;position:relative;}
+.bookmark_form_phone .item span{margin:0 10px;line-height:20px;vertical-align:middle;display:inline-block;width:auto;}
+.bookmark_form_phone .item img{height:76px;vertical-align:middle;margin:12px 0;position:relative;}
 .bookmark_form_phone{background:transparent;width:100%;height:100%;padding:0;left:0;top:0;margin:0;border-radius: 0;border:none;box-shadow: none;filter:none;
 -webkit-box-shadow: none;
     -moz-box-shadow: none;
     box-shadow: none;}
 .bookmark_form_phone .stage{margin:0;width:100%;height:100%;}
 .bookmark_form_phone .item{position:relative;width:100%;height:100px;line-height:100px;vertical-align:middle;font-size:15px;cursor:pointer;}
-.bookmark_form_phone .item span{margin:0 10px;float:left;display:inline-block;width:auto;}
-.bookmark_form_phone .item img{height:76px;float:left;margin:12px 0;position:relative;}
+.bookmark_form_phone .item span{margin:0 10px;display:inline-block;width:auto;}
+.bookmark_form_phone .item img{height:76px;margin:12px 0;position:relative;}
 .bookmark_form_phone.rightToLeft .item img{float:right;}
-.bookmark_form_phone.rightToLeft .item span{float:right;}
+.bookmark_form_phone.rightToLeft .item span{float:right;transform: translate(-20px,-50%);top: 50%;position: relative;}
 .bookmark_form_phone.rightToLeft .item .delete{left:20px;right:auto;}
+.bookmark_form_phone.rightToLeft .item .page{transform: translate(0,-50%);}
 .bookmark_form_phone .item .delete{position:absolute;cursor:pointer;top:30px;left:auto;right:20px;width:41px;height:41px;background-repeat: no-repeat;}
 .bookmark_form_phone .item .delete{background-image: url("data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACkAAAApCAYAAACoYAD2AAADE0lEQVRYhc2Z344URRSHv+6wiX9n4qUGSLxYNMb4AhovYF8BMOKKjC8grERfwvdAbvFSWTXsGi4xZGPkYoma9dIwq+gN83lRp+lmwyxd3ds7e5KTmspU/eqb6qnqU6cKlY72KnAGeA94E1gGXgTGwAPgH+Ae8AtwC/gO+LPTSGqOL6kfqTfVR+bZI3VdXQ2d1uO2bViol9TtxqAP1W/UNXVFPamOo/046ivqlWj3sNF3W52E7oFALqsbjQG21E8bQG19HP22Globod8L8rz6IAR31A/VMhNur5ehsxO6U/WDrpCfqbMQut5h5trM7PXQn5n+FlmQVxqdrx4w3F6/2piMtbaQ56LTzLRYhgSs/FJjzHPPgjxl+o+ofnFIgJV/GeNO1TfmQRbWq/jaIQNWfi3G37SxPe2dck2r7qAXSVsfW6/6yV7IJeuN+sKCACu/EBz3g+sx5Gp8sWX/fbCvl9Yb/qpKGa/wSZRfAbOOAQeADe9qs+B4zFWorwG/A/+RIptpBlCuFS3bjUgR03PA8RI4DZTAOu0Bh7YpiacEzpTAu/HFzUyhooPn2HqU7x8D3orKz5kikPfIcyHvRPl2CbwelXuZIkPbr1GePEYK9wH+6iG43yx1XekVz6hQK5Hcx9EEKOLzvLKXfkm9okcdRIa0l6PcLUknO4BXFgQzzyqeaQlsR2V5QTDz7FSUv5XAVlTeWRDMPKt47pbARlRO9xQt5pRdreL5sXp3/wH8S967G4bbzKt39/PEu3sH2AReAM5mCA1pZ0k8m8BOFcN9fETjyYvNoHcpImE9wpE5pjOFHuEzDqbT2WY0WPRp8SfnnBYxnXeP9Lm78mYG4+IhAX5iRgaj8s/jV83UywMDXrbOBT0177Rf5zWHz6p93ZiMpyarngWJKW+4G0JD5Sd37ZGfrHxZvW1tfTK9E5/M9N42Jcn27Zvz6yfWG76mHPgNUy5zRT2hjqL9KOpVzvyGT+bM74deq6eS+6iWTKmP7+12+/CDHW4fCu11j7NCOrdX9zgvkSKYKfA39T3OBvAtHe9x/gdbb3TyIW2ytgAAAABJRU5ErkJggg==");}
 .bookmark_form_phone .item .delete:hover{background-image: url("data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACkAAAApCAYAAACoYAD2AAACkklEQVRYhc3ZzW8NURjH8c+dXLqgrIl4WRARG8SiXhP1N9BYVfkDBGFnwVIbe0StaPwNdCEqIl42IqoLSsJaby2aJq7FmZHpNfdlpnPv7TeZTGbmnPP85rw+zzmVd+vXK8gWDOMY9mI3NmAzfuE35vAJL/AMP4sYquQUuQ5nMYaTiHLk/YPneIApLHeasVORFYziBnbmENaMr7iFSdTbGu9A5G48xJFVCsvipfDzc60StWuus3ijOwLF5b7FSKtErURewmNsKlFUFoN4hMvNEjQTeRl3hL7YCyqYwJWsj1kiz2C8m4pacDu2v4LGgbNH6IODPRKVRQ2HMZu8SNdkRZgS+ilQbH9SqqulRY7q3ijOyxDOJw9Jc6/DZ+VM1GUxL8zRy0lNjlhbAmGHeP5MRI6VUeqBpaV/V0mMEZp7K77L5ywUEvJ+YCBvlj/YFuGUnAJ7SIThKo4WyV2gVopyoop9RXPnafJV/NT+CLuK5u4R26uCu78qWtVSCSN9U6QkVywR03gvgcEIC2WV1iVqkRDZrWUWInzpt4o2fIvwsd8q2vAhwkwZJSUjvPFeAs+rmBZi38LxTIkjuZE6piP8EOLftchL/KjGD3cVWMN7sH7fY6VnPic4mmuF/zzzZdzsn55Mboo3tdIhbUUY6UN9EpXmlRAU1lnp7NaFCK3WB1FpakLk+m+3rdEjn8VFHWzHdYl6bH82/TIrbHiCa71QlMH12P4KmsU247iqdzVaj+3dzvrYKgCbwDksdkFUmsXYzkSzBO2ixCkcxOsSRaV5jUOxnaZ0EsrOCdPSBWGCLYP5uLwhYXunJUVOH0ZiA8flP314gfu6dPqQxRacFtb85BxnoxAzLQh9LTnHmcFTBc9x/gIyhJDrY4ZjgQAAAABJRU5ErkJggg==")}
@@ -306,6 +307,9 @@
 .share_form_phone .progressBar{cursor:pointer;background: rgba(0, 0, 0, 0.3); position: absolute; left: 0px; width: 10px;border-radius:5px;}
 
 /* thumbnail_form_phone */
+.thumbnail_form_phone .result{text-align: left;margin:0;height:35px;line-height:35px;background:rgba(255,255,255,0.05);padding:0 20px;}
+.thumbnail_form_phone.rightToLeft .result{text-align: right;}
+.thumbnail_form_phone .input_search{ background-color: #fff;border-radius: 5px;height: 40px;line-height: 40px;padding: 0 25px 0 10px;width: 305px;border: 1px solid transparent;}
 
 /* setting_form_phone */
 .setting_form_phone{right:auto;}
